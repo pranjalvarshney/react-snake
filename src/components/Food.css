@@ -1,0 +1,8 @@
+.food-dot{
+    position: absolute;
+    width: 3vh;
+    height: 3vh;
+    background-color: deeppink;
+    border: 1px solid whitesmoke;
+    z-index: 1;
+}
